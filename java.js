@@ -1,5 +1,5 @@
 
-function Descr(a, b, c) {
+function countDiscriminant(a, b, c) {
     var D;
     var x1;
     var x2;
@@ -16,5 +16,5 @@ function Descr(a, b, c) {
         x = ((-b) / (2 * a));
     }
 }
-Descr(1, -70, 600);
+countDiscriminant(1, -70, 600);
 
